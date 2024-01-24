@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Luke Becker</h1>
-<h3 align="left">Thanks for visiting my GitHub page. I'm an investment management analyst and newly minted data scientist. I'm excited to use my skills in data science to create and communicate data-driven insights and solutions. I have an interest in how data science can be utilized in the investment management and financial planning fields.</h3>
+<h3 align="left">Thanks for visiting my GitHub page. I'm an investment management analyst and like to use data science to further my investment analysis and research. I'm excited to use my skills in data science to create and communicate data-driven insights and solutions. I have an interest in how data science can be utilized in the investment management and financial planning fields.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
