@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Luke Becker</h1>
+<h1 align="left">Hi 👋,r</h1>
 <h3 align="left">Thanks for visiting my GitHub page. I'm an investment management analyst and like to use data science to further my investment analysis and research. I'm excited to use my skills in data science to create and communicate data-driven insights and solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
